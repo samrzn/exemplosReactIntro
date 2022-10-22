@@ -1,0 +1,10 @@
+Aplicação de exemplos apresentados nas aulas de React.JS durante o bootcamp Recode PRO 2022 no módulo React Fundamentos & Intermediário.
+
+    Conceitos aplicados:
+        - Entendendo a estrutura de uma aplicação React;
+        - Regras de importação/exportação de elementos;
+        - JSX;
+        - Elementos recebendo propriedades em JSON;
+        - Componentes funcionais;
+        - Componentes de classes;
+        - 
