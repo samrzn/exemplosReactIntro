@@ -30,8 +30,8 @@
  
 
 <div style="display: inline_block"><br>  
-<img align="center" alt="React" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" />
-<img align="center" alt="Node" height="40" width="35" src="https://cdn.icon-icons.com/icons2/2622/PNG/512/brand_node_icon_157859.png" />
+<img align="center" alt="React" height="32" width="34" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" />
+<img align="center" alt="Node" height="42" width="37" src="https://cdn.icon-icons.com/icons2/2622/PNG/512/brand_node_icon_157859.png" />
 
 
 
