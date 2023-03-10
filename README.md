@@ -3,7 +3,7 @@
 ## Informações do projeto
 
 
-#### Introdução ao uso da bliblioteca ReactJS:
+#### Introdução ao uso da biblioteca ReactJS:
 
 ###### Front-end de demonstração da estrutura de uma aplicação em ReactJS nas regras de importação/exportação de elementos, JSX, componentes de classe & funcionais e propriedades JSON para exercitar os conhecimentos apresentados durante o módulo 4 "Desenvolvimento de Sistemas, nível 2" no bootcamp Recode Pro 2022;
 
